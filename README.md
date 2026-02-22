@@ -13,14 +13,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmonika67&label=Profile%20views&color=0e75b6&style=flat" alt="cmonika67" /> </p>
 
-- 🔭 I’m currently working on *machine learning & data analytics projects*
-- 🌱 Learning everything about *data science, AI, and Python*
-- 💡 Love solving problems using *data-driven insights*
-- ✨ Always exploring new tools like *Pandas, NumPy, Scikit-Learn,
+ 🔭 I’m currently working on *machine learning & data analytics projects*
+ 🌱 Learning everything about *data science, AI, and Python*
+ 💡 Love solving problems using *data-driven insights*
+ ✨ Always exploring new tools like *Pandas, NumPy, Scikit-Learn,
      TensorFlow, Machine learning algorithms and Ai trends*
-- 📚 Pursuing my *B.Tech in AI & Data Science*
-- 🗣 I love discussing tech, sharing ideas, and collaborating on exciting projects
-- ⚡ Fun fact **I Participate in events that enhance my Public speaking and Leadership skills.**
+ 📚 Pursuing my *B.Tech in AI & Data Science*
+ 🗣 I love discussing tech, sharing ideas, and collaborating on exciting projects
+ ⚡ Fun fact **I Participate in events that enhance my Public speaking and Leadership skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
